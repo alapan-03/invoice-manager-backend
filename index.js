@@ -14,7 +14,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: "https://invoice-manager-frontend.onrender.com/",
+  origin: "https://invoice-manager-frontend.onrender.com",
   optionsSuccessStatus: 200,
 };
 
