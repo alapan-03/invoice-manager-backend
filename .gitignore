@@ -1,0 +1,8 @@
+# Ignore JSON file
+gen-lang-client-0001969346-f40e06372d92.json
+
+# Ignore .env file
+.env
+
+# Ignore node_modules directory
+node_modules/
