@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
   origin: "https://invoice-manager-frontend.onrender.com",
-  origin: "http://localhost:3001",
+  // origin: "http://localhost:3001",
   optionsSuccessStatus: 200,
 };
 
