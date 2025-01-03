@@ -6,3 +6,5 @@ gen-lang-client-0001969346-f40e06372d92.json
 
 # Ignore node_modules directory
 node_modules/
+
+.codegpt
